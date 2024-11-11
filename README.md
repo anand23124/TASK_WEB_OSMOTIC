@@ -22,7 +22,7 @@ This project provides an API to embed and retrieve information from multiple doc
 
 5. **Run the FastAPI server**:
   
-    uvicorn main:app --reload
+    uvicorn app:app --reload
 
     - The server will run at `http://127.0.0.1:8000`.
 
